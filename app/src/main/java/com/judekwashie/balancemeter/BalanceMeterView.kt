@@ -25,7 +25,7 @@ constructor(
     private var balanceValue: Float = 0f
     private var maxBalanceValue: Float = 0f
     private var balanceMeterValue: Float = 0f
-    private var currencySymbol: String? = "₵"
+    private var currencySymbol: String?
 
     private var backgroundPaint: Paint = Paint()
     private var foregroundPaint: Paint = Paint()
